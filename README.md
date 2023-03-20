@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashandi Leonadi</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
-- 🔭 I’m currently working on [Happy5](as Frontend Engineer)
+- 🔭 I’m currently working on Happy5 as Frontend Engineer
 
 - 🌱 I’m currently learning **about mobile development using React Native**
 
